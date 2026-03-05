@@ -33,6 +33,8 @@ diabetic-retinopathy-detection/
 ├─ requirements.txt
 ├─ DiabeticRetionpathy.ipynb
 
+```
+
 ## How to Run
 
 1. Clone repo: `git clone https://github.com/YOUR_USERNAME/Diabetic-Retionpathy-Detection.git`
