@@ -1,6 +1,6 @@
 # Diabetic-Retionpathy-Detection
 
-This project detects the severity of diabetic retinopathy from retinal fundus images using a convolutional neural network (CNN) built with TensorFlow/Keras.[file:56] It is intended as an educational machine learning project and a portfolio example.
+This project detects the severity of diabetic retinopathy from retinal fundus images using a convolutional neural network (CNN) built with TensorFlow/Keras. It is intended as an educational machine learning project and a portfolio example.
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ Main goals:
 
 - Explore and visualize the dataset and class distribution.
 - Build a TensorFlow/Keras pipeline for training and evaluation.
-- Handle class imbalance and assess model performance on all classes.[file:56]
+- Handle class imbalance and assess model performance on all classes.
 
 ## Dataset
 
