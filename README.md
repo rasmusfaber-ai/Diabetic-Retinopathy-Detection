@@ -32,3 +32,17 @@ diabetic-retinopathy-detection/
 ├─ README.md
 ├─ requirements.txt
 ├─ DiabeticRetionpathy.ipynb
+
+## How to Run
+
+1. Clone repo: `git clone https://github.com/YOUR_USERNAME/Diabetic-Retionpathy-Detection.git`
+2. Install: `pip install -r requirements.txt`
+3. Download Kaggle dataset → put class folders in `data/`
+4. Set `dataset_path = "data"` in notebook
+5. Run: `jupyter notebook DiabeticRetionpathy.ipynb`
+
+## Results
+
+- Validation accuracy: XX.X%
+- Test accuracy: YY.Y%
+- Note: Lower performance on Severe/Proliferative due to class imbalance
