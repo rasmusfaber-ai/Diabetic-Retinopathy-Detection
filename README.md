@@ -28,10 +28,14 @@ In the notebook, you set a `dataset_path` variable that should point to the root
 ## Project Structure
 
 ```text
-diabetic-retinopathy-detection/
+Diabetic-Retinopathy-Detection/
 ├─ README.md
 ├─ requirements.txt
 ├─ DiabeticRetionpathy.ipynb
+├─ train_split.csv
+├─ val_split.csv
+├─ test_split.csv
+└─ data/ (Load the images from Kaggle in this folder)
 
 ```
 
@@ -45,6 +49,6 @@ diabetic-retinopathy-detection/
 
 ## Results
 
-- Validation accuracy: XX.X%
-- Test accuracy: YY.Y%
+- Test accuracy of custom CNNs: 0.5168
+- Test accuracy of pretrained models: 0.6577
 - Note: Lower performance on Severe/Proliferative due to class imbalance
