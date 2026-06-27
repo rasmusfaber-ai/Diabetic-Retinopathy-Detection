@@ -1,4 +1,4 @@
-# Diabetic-Retionpathy-Detection
+# Diabetic-Retinopathy-Detection
 
 This project detects the severity of diabetic retinopathy from retinal fundus images using a convolutional neural network (CNN) built with TensorFlow/Keras. It is intended as an educational machine learning project and a portfolio example.
 
